@@ -49,10 +49,32 @@ Saya suka mengubah ide sederhana menjadi proyek teknologi yang bisa benar-benar 
 
 ---
 
-# 📊 GitHub Stats
+# 🕹️ Pac-Man Zone
 
-![](https://github-readme-stats.shion.dev/api?username=RonzX7Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=RonzX7Developer&theme=dark&hide_border=false)
+<img src="./pacman.svg" alt="Static Pac-Man graphic" width="900">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RonzX7Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+> 🎮 Just a visual — not playable.
+
+---
+
+# 🚀 What I'm Building
+
+I'm focused on turning ideas into practical projects across AI, web, Android, and open-source development.
+
+**Current focus:** Xyvonix AI • Xyvonix Core • Web Tools • Developer Projects
+
+---
+
+# 👨‍💻 Developer Mindset
+
+**Learn → Build → Test → Improve → Repeat**
+
+I enjoy experimenting with new technologies, building useful tools, and continuously improving my projects.
+
+---
+
+> **RonzX7 Developer** — Building ideas into reality.
