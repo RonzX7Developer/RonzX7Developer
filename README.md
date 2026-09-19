@@ -49,23 +49,23 @@ Saya suka mengubah ide sederhana menjadi proyek teknologi yang bisa benar-benar 
 
 ---
 
-# 🕹️ Pac-Man Zone
-
-<div align="center">
-
-<img src="./pacman.svg" alt="Static Pac-Man graphic" width="900">
-
-</div>
-
-> 🎮 Just a visual — not playable.
-
----
-
 # 🚀 What I'm Building
 
 I'm focused on turning ideas into practical projects across AI, web, Android, and open-source development.
 
-**Current focus:** Xyvonix AI • Xyvonix Core • Web Tools • Developer Projects
+| Project | Focus |
+| --- | --- |
+| 🤖 **Xyvonix AI** | AI & intelligent tools |
+| ⚙️ **Xyvonix Core** | Android performance & utilities |
+| 🌐 **Web Tools** | Useful modern web applications |
+
+---
+
+# 🎯 Current Focus
+
+**AI** • **Web Development** • **Android** • **Open Source**
+
+I'm continuously learning, experimenting, and improving my projects one step at a time.
 
 ---
 
@@ -73,7 +73,7 @@ I'm focused on turning ideas into practical projects across AI, web, Android, an
 
 **Learn → Build → Test → Improve → Repeat**
 
-I enjoy experimenting with new technologies, building useful tools, and continuously improving my projects.
+I enjoy turning simple ideas into useful technology and sharing what I build with the community.
 
 ---
 
